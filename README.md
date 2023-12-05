@@ -6,7 +6,7 @@ You can find the Shop at:
 Shop: https://infinity-development.tebex.io/ 
 
 
-This is a Script created from Infinity Development [THis is a free ressource]
+This is a Script created from Infinity Development [This is a free ressource]
 
 
 License:
