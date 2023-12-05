@@ -15,7 +15,7 @@ License:
 - If you use a script of Infinity Developement on your Server you have to say if somebody ask you, where you get this script
 - You are not allowd to chnage the Links to the Shop or the Discord
 - You are not allowed to chnage the author of the Script
-
+- More Licens Points in the Licennse Part
 
 Terms:
 With the Download of this scripts you are enable and acepting all Licens requierements.
