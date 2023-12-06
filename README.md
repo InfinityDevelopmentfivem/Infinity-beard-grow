@@ -3,7 +3,7 @@ Discord: https://discord.gg/3B78fnsxFF
 EMail: infinity.development@outlook.de
 
 You can find the Shop at:
-Shop: https://infinity-development.tebex.io/ 
+Shop: https://infinity-development-store.tebex.io/ 
 
 
 This is a Script created from Infinity Development [This is a free ressource]
